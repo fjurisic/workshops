@@ -4,6 +4,8 @@ This workshop explains some of the information theory behind log-likelyhood, ent
 
 The underlying theme of the whole workshop is about the effects of modeling true and approximate distributions of samples, and how being able to predict future better is tied to more efficient compression of information.
 
+The workshop can be done without a GPU.
+
 #### Setting up
 
 This is the setup for first timers. If you already have some environment set up, you just need pytorch, numpy and tqdm.
